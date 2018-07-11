@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hamyl10</string>
+    <string name="title">arthemetic puzzles</string>
+    <string name="help">
+        Choose a difficultly level\n
+        Beginner,Intermediate and Expert Level)\n
+
+    </string>
+</resources>
